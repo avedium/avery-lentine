@@ -1,4 +1,4 @@
-### Avery Lentine's Online Portfolio
+# Avery Lentine's Online Portfolio
 
 Welcome to my personal and professional portfolio site hosted with GitHub Pages!  
 
