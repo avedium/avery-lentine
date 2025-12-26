@@ -16,7 +16,7 @@ This portfolio aims to include:
 
 ## Current Features
 
-A simple "Hello World" is all!
+A basic about me section...
 
 
 ## Viewing the Portfolio
@@ -24,6 +24,7 @@ A simple "Hello World" is all!
 The live site is published using GitHub Pages at https://avedium.github.io/avery-lentine/
 
 ## Planned Features
+* Pictures of Charlotte and Jeremy
 * A profile picture and home button
 * Accessible menu bar to navigate between various sections of the page
 * Adaptive element scaling for various displays 
