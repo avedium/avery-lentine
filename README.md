@@ -24,9 +24,12 @@ A basic about me section...
 The live site is published using GitHub Pages at https://avedium.github.io/avery-lentine/
 
 ## Planned Features
-* Pictures of Charlotte and Jeremy
+* Pictures of pets Charlotte and Jeremy
 * A profile picture and home button
 * Accessible menu bar to navigate between various sections of the page
+* Static site generator to reduce repetitive HTML code and streamline future development
 * Adaptive element scaling for various displays 
-* Section for potential employers to view my skills, experience, and education
-* Section for documenting progress and planning personal projects
+* "Contact" page for potential collaborators to view my direction, experience, and education and request contact
+* "Projects" page for documenting progress and planning personal projects
+* "Blog" page for documenting and sharing day-to-day events with the internet
+* "Curriculam Vitae" page for displaying my skills and education to companies and employers
